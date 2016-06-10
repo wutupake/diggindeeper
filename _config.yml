@@ -10,3 +10,4 @@ url: "http://diggindeeper.it" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+exclude: ['node_modules','package.json','gulpfile.js']
